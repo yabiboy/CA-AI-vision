@@ -1,0 +1,6 @@
+streamlit
+sympy
+numpy
+matplotlib
+pillow
+google-genai
